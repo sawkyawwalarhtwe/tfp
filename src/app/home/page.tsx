@@ -14,7 +14,7 @@ export default function HomePage() {
   return (
     <main className=' w-full overflow-hidden'>
       <NavBar/>
-      <SlideShow/>
+      {/* <SlideShow/>
       <hr className='mx-[6%]'/>   
       <MAbout/>
       <hr className='mx-[6%]'/>
@@ -25,7 +25,7 @@ export default function HomePage() {
       <hr className='mx-[6%]'/>
       <MupcomingTraining></MupcomingTraining>
       <hr className='mx-[6%]'/>
-      <MPublication/>
+      <MPublication/> */}
       <Footer/>
     </main>
   )
